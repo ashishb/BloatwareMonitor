@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bloatware Monitor</string>
+    <string name="disabled_status">Disabled</string>
+    <string name="enabled_status">Enabled</string>
+</resources>
